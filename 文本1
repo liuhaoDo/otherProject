@@ -1,8 +1,7 @@
-建立文本
-创建master分支
-协同
-
-用shootingDo的账号进行代码拉取
-
-
-shootingDo账号修改内容
+目的：
+  建立文本、创建master分支、实现协同；
+过程：
+  通过将文件将项目共享给用户DOShooting 实现协同
+  DOShooting用户修改、提交、push 之后验证结果可行；
+        
+      
