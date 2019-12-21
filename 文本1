@@ -3,5 +3,8 @@
 过程：
   通过将文件将项目共享给用户DOShooting 实现协同
   DOShooting用户修改、提交、push 之后验证结果可行；
-        
+  
+  DOShooing用户登录
+  修改文件内容，实现协同
+
       
